@@ -30,10 +30,9 @@ Student Portfolio is our second project "walkthrough".
 
 [Font Awesome - the Internet's Icon Library](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner)
 
-[CDN - font-awesome](https://cdnjs.com/libraries/font-awesome)
+[CDN (content delivery network) - font-awesome](https://cdnjs.com/libraries/font-awesome)
 
 [CodePrint - prepare code for pdf assignment submission - Baker Franke](https://bakerfranke.github.io/codePrint/)
-[Photos For Class](https://www.photosforclass.com/)
 
 [Pics4Learning](https://www.pics4learning.com/)
 
