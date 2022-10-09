@@ -32,8 +32,7 @@ Student Portfolio is our second project "walkthrough".
 
 [CDN - font-awesome](https://cdnjs.com/libraries/font-awesome)
 
-[Pixabay - stunning free images](https://pixabay.com/)
-
+[CodePrint - prepare code for pdf assignment submission - Baker Franke](https://bakerfranke.github.io/codePrint/)
 [Photos For Class](https://www.photosforclass.com/)
 
 [Pics4Learning](https://www.pics4learning.com/)
