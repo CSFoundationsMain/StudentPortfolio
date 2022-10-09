@@ -21,7 +21,9 @@ Student Portfolio is our second project "walkthrough".
     
 ## Main two resources (equivalent to a course textbook):
 
-[W3 Schools Online Web Tutorials]<a href="https://w3schools.com" target="_blank">W3 Schools</a>
+<a href="https://w3schools.com" target="_blank">W3 Schools Online Web Tutorials</a>
+
+<a href="https://developer.mozilla.org/en-US/" target="_blank">Mozilla Developer Network - MDN Web Docs</a>
 
 [Mozilla Developer Network - MDN Web Docs](https://developer.mozilla.org/en-US/)
 
