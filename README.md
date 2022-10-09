@@ -21,15 +21,16 @@ Student Portfolio is our second project "walkthrough".
     
 ## Main two resources (equivalent to a course textbook):
 
-[Mozilla Developer Network - MDN Web Docs](https://developer.mozilla.org/en-US/){:target="_blank"}
-
-<a href="https://w3schools.com" target="_blank">W3 Schools Online Web Tutorials</a>
+[W3 Schools Online Web Tutorials](https://www.w3schools.com/)
 
 [Mozilla Developer Network - MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 
-
 ### Additional project resources
+
+[Font Awesome - the Internet's Icon Library](https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner)
+
+[CDN - font-awesome](https://cdnjs.com/libraries/font-awesome)
 
 [Pixabay - stunning free images](https://pixabay.com/)
 
