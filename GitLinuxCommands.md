@@ -1,4 +1,5 @@
-# Frequently used CLI (command line interface - your terminal) commands
+# Frequently used CLI commands
+### (command line interface - your terminal)
 
 ## Git Commands frequently used:
 
@@ -13,11 +14,23 @@
   7. **git push origin main**
      * type in your GitHub username
      * copy your GitHub personal access code in place of password requested (*note cursor will NOT move when access key is pasted*)
-  8. Check your project GitHub repository to confirm your push work correctly
+  8. Check your project GitHub repository to confirm your push worked correctly
   9.   Congratulations!  You have pushed your work successfully!!!
 
 
 ### how to copy or clone a starter GitHub repo to your AWS Cloud9 IDE
   1. **git clone https://yourProjectGitHubRepo.com**
      * *ALWAYS run your git clone command from the Root Directory - **/environment $** *
+
+
+## Commanly used Linux Commands
+
+* **ls -al**  list all files in a long listing (detailed) format
+* **ls**  list all files in a directory
+* **cd newFolderName**  to move the command line to open a directory (folder)
+* **cd..**  to move up a folder or directory - as in from project folder to root directory
+* **touch newFileName** Create an empty file within the current directory
+* **mkdir newDirectory**  Create a directory (folder)
+
+
 
