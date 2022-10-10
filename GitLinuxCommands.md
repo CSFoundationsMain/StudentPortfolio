@@ -25,11 +25,10 @@
 
 
 ## Commanly used Linux Commands
-
-* **ls -al**  list all files in a long listing (detailed) format
-* **ls**  list all files in a directory
 * **cd newFolderName**  to move the command line to open a directory (folder)
 * **cd..**  to move up a folder or directory - as in from project folder to root directory
+* **ls -al**  list all files in a long listing (detailed) format
+* **ls**  list all files in a directory
 * **touch newFileName** Create an empty file within the current directory
 * **mkdir newDirectory**  Create a directory (folder)
 
