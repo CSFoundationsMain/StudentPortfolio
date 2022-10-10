@@ -1,5 +1,5 @@
 # Frequently used CLI commands
-### (command line interface - your terminal)
+### (CLI - command line interface - your terminal)
 
 ## Git Commands frequently used:
 
